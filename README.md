@@ -1,5 +1,5 @@
 # 
-# ${1:pipFlash}
+# pipFlash
 
 ## Installation
 
